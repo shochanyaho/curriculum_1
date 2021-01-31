@@ -2,7 +2,7 @@ public class Task1_1{
     public static void main(String[] arg) {
         int hogeInt = 50;
         String hogeString = "テスト";
-        //下記の処理はhogeStringの値を0.2に指定している。なおクラスはdoubleなのでfloatより細かい数を扱える。
+        //下記の処理はhogeStringの値を0.2に指定している。はdoubleなのでfloatより細かい数を扱える。
         double hogeDouble = 0.2;
 
         hogeInt = 100;
