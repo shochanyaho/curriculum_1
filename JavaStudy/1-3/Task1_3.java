@@ -11,7 +11,7 @@ public class Task1_3 {
         int multiply = 10 * 2;
 
         // ④ 20 を 6 で割った余りを代入する、変数 remi を作成しなさい。
-        int remi = 20 / 6;
+        int remi = 20 % 6;
         // ⑤下記の処理について、何をしているのかコメントを記入してください
         // [ここへ記述]
         String town = "有楽町";
