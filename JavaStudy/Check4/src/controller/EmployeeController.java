@@ -32,7 +32,7 @@ public class EmployeeController extends HttpServlet {
   // 問② EmployeeServiceクラスをインスタンス化する。
  EmployeeService emps = new EmployeeService();
   // 問③ EmployeeBeanに、EmployeeServiceよりsearch関数を呼び出し、返り値を格納する。
- EmployeeBean rtnData = emps.search("postgres", "postgres");
+ EmployeeBean rtnData = emps.search(id, password);
   // 問④ nullの部分に適切な引数をセットする。
  request.setAttribute("EmployeeBean", rtnData);
 
