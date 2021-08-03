@@ -2,8 +2,6 @@ package com.example.security.springsecurity.account;
 
 import java.util.List;
 
-import javax.annotation.Resource;
-
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.security.core.userdetails.UserDetailsService;
 import org.springframework.security.core.userdetails.UsernameNotFoundException;
@@ -16,7 +14,7 @@ import org.springframework.transaction.annotation.Transactional;
 public class AccountService implements UserDetailsService {
 
     //問３－２ 自動でインスタンス生成をするアノテーションを記述
-    @Resource
+    @Autowired
     private AccountRepository repository;
 
     @Autowired
