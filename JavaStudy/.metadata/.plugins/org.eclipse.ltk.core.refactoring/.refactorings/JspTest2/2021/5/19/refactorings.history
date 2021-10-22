@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Move element &apos;index.jsp&apos; to &apos;Check3&apos;&#x0A;- 元のプロジェクト: &apos;JspTest2&apos;&#x0A;- 宛先要素: &apos;Check3&apos;&#x0A;- オリジナル要素: &apos;index.jsp&apos;&#x0A;- リファクタリングされた要素の参照を更新" description="ファイルを移動する" destination="=Check3" element1="WebContent/index.jsp" files="1" flags="589830" folders="0" id="org.eclipse.jdt.ui.move" policy="org.eclipse.jdt.ui.moveResources" qualified="false" references="true" stamp="1620515519714" units="0" version="1.0"/>
+</session>

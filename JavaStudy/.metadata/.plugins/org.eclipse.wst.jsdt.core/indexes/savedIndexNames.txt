@@ -1,0 +1,10 @@
+INDEX VERSION 1.4+/Users/kurodashotaro/Desktop/GitHub/curriculum_1/JavaStudy/.metadata/.plugins/org.eclipse.wst.jsdt.core/indexes
+311043671.index
+4222055287.index
+1288700365.index
+1181062745.index
+2715993262.index
+3074242940.index
+1707337428.index
+2553861149.index
+1234477405.index
